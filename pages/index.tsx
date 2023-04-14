@@ -67,7 +67,7 @@ const Home: NextPage = () => {
           <ModalBody textAlign="center">
             <Heading size="lg" mb={4} color="white">Glad You&apos;re Here!</Heading>
             <Text color="white">Here&apos;s your chance to be a part of something big. We&apos;re creating a Helium expo and hackathon, and we could use your help!
-            <br></br><br></br><i>LavaDAO is a Colorado LCA created to manage HeliumDenver. Help us acheive our lofty goals by purchasing a Philanthropy NFT. Simple as it sounds, provides immediate equity to LavaDAO for HeliumDenver marketings and events.</i></Text><br></br>
+            <br></br><br></br><i>LavaDAO is a Colorado LCA created to manage HeliumDenver. Help us acheive our lofty goals by purchasing a Philanthropy NFT. Simple as it sounds, provides immediate equity to LavaDAO for HeliumDenver marketing and events.</i></Text><br></br>
             <Button onClick={() => setShowHelp(false)}>Done</Button>
           </ModalBody>
 
