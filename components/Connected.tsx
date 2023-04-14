@@ -143,7 +143,7 @@ const Connected: FC = () => {
       </Box>
             <VStack spacing={2} alignItems="center" maxW="100%">
               <Text color="white" fontSize="l" textAlign="center" py={2} px={7} fontFamily="Inter">
-                The Philanthropy Token allows you to directly support the HeliumDenver ecosystem in its earliest stages. This token comes with perks! You will be awarded:<br /><br />
+                The Philanthropist Token allows you to directly support the HeliumDenver ecosystem in its earliest stages. This token comes with perks! You will be awarded:<br /><br />
                 
                 <li>Free booth hosting at all HeliumDenver events</li>
                 <li>SWAG! T-shirt, hoodie, stickers, and more!</li>
