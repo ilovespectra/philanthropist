@@ -14,4 +14,4 @@ npm run dev
 ```
 Replace the Candymachine ID in `Connected.tsx`
 
-Walkthrough available here.
+Walkthrough available <a href="https://github.com/ilovespectra/hacks-nfts" target="_blank">here.</a>
